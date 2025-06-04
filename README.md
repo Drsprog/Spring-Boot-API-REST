@@ -1,7 +1,7 @@
 
 # API REST con Spring Boot + Hibernate + PostgreSQL
 
-Esta aplicación es una API RESTful desarrollada con Spring Boot, que permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre una base de datos PostgreSQL utilizando Hibernate (JPA) como capa de persistencia.
+Esta aplicación es una API RESTful desarrollada con Spring Boot, que permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre una base de datos PostgreSQL para utilizar Hibernate (JPA) como capa de persistencia.
 
 El objetivo es proporcionar un backend limpio, estructurado y fácilmente integrable para cualquier frontend o consumidor de APIs.
 
